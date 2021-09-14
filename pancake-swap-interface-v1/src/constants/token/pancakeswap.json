@@ -1,0 +1,43 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+
+    {
+      "name": "Hopswap Token",
+      "symbol": "HOP",
+      "address": "0x0a924e1de39366ceac77f31bf4408008acf783ee",
+      "chainId": 269,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+	
+	{
+      "name": "Wrapped HPB Token",
+      "symbol": "WHPB",
+      "address": "0xfcb433edf9c343a23d97967700271c2a9e7958e1",
+      "chainId": 269,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+	
+	    {
+      "name": "HPBUSD Token",
+      "symbol": "HPBUSD",
+      "address": "0xd4e3291c87d49cb0757b0f88272e8f589f130003",
+      "chainId": 269,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    }
+	
+	
+  ]
+}
